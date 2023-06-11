@@ -1,0 +1,6 @@
+/venv
+/test
+/garbage
+/__pycache__
+dict.txt
+list_chains.txt
